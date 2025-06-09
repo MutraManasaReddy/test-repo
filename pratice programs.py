@@ -76,12 +76,13 @@
 #print(p1.name)
 #print(p1.id)
 
-class employee:
-    def __init__(self,name,id):
-        self.name = name
-        self.id = id
-    def myfunc(self):
-        print("my name is "+ self.name)
-p1 = employee("amar",887)
-print(p1.name)
-print(p1.id)
+#class employee:
+    #def __init__(self,name,id):
+    #    self.name = name
+   #     self.id = id
+  #  def myfunc(self):
+ #       print("my name is "+ self.name)
+#p1 = employee("amar",887)
+#print(p1.name)
+#test
+#print(p1.id)
