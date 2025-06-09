@@ -31,6 +31,7 @@ class CarManager:
             for car in self.cars:
                 print(car)
 
+
     def update_car(self, car_id, brand=None, colour=None, year=None):
         for car in self.cars:
             if car.car_id == car_id:
