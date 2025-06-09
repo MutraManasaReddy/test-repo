@@ -124,7 +124,7 @@ thisdic = {
     "year":2005,
     "manufacture":1999
 
-}
+}m
 x= thisdic.get("brand")
 print(x)
 

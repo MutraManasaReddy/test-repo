@@ -11,3 +11,5 @@ y=2
 z=3
 
 print(x,y,z)
+
+#one values to many variables

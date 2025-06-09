@@ -19,3 +19,6 @@ y= math.floor(1.4)
 z =math.factorial(5)
 print(x)
 print(y)
+
+import json
+x = {"name": "manasa","age":"26","place":"singaapore"}

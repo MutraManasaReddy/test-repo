@@ -28,8 +28,10 @@
 #else:
     #print("a less than b")
 
-a = 20
-b = 30
-if(b>a): print("b is grerthan a")
+#a = 20
+#b = 30
+#if(b>a): print("b is grerthan a")    -------shorthand if 
+
+
 
 

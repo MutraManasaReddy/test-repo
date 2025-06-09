@@ -23,10 +23,10 @@
 #my_function("singapore") 
 #my_function()               ---------------------default function     
 
-def my_function(fruits):
-    for x in fruits:
-        print(x)
-fruit= ["apple","banana","cherry"]
-my_function(fruit)
+#def my_function(fruits):
+  #  for x in fruits:
+ #       print(x)
+#fruit= ["apple","banana","cherry"]
+#my_function(fruit)                  ----------------passing a list of argument
 
         

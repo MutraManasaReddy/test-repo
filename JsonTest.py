@@ -13,11 +13,13 @@ class ProductManeger:
         self.products = []
 
     # Add a new product
+
     def add_product(self, product):
         self.products.append(product)
         print(f"Product '{product.name}' added successfully!")
 
     # List all products
+    
     def list_products(self):
         if not self.products:
             print("No products available.")
