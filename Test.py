@@ -13,15 +13,19 @@ class CarManager:
     def __init__(self):
         self.cars = []
 
+
+
     def add_car(self, car):
         self.cars.append(car)
         print(f"Added: {car}")
+        
 
     def get_car(self, car_id):
         for car in self.cars:
             if car.car_id == car_id:
                 return car
         return "Car not found"
+    
 
     def list_cars(self):
         if not self.cars:
